@@ -1,0 +1,29 @@
+# .NET
+bin/
+obj/
+
+# EF Core
+*.db
+*.db-shm
+*.db-wal
+
+# Visual Studio
+.vs/
+
+# VS Code
+.vscode/
+
+# Node
+node_modules/
+
+# Mac
+.DS_Store
+
+# Logs
+*.log
+
+# Coverage
+TestResults/
+
+# Vite
+dist/
