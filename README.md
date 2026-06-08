@@ -1,6 +1,6 @@
 # FleetPulse
 
-![FleetPulse Dashboard](docs/screenshots/dashboard.png)
+![FleetPulse Dashboard](docs/Screenshots/dashboard.png)
 
 FleetPulse is a full stack vehicle telemetry application built using ASP.NET Core, React, Entity Framework Core, and SQLite.
 
